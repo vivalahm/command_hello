@@ -1,1 +1,2 @@
-printf("Hello world!!")
+print("Hello world!!")
+print("tell your world")
